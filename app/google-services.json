@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956264417828",
+    "firebase_url": "https://vhcalculadoraflex.firebaseio.com",
+    "project_id": "vhcalculadoraflex",
+    "storage_bucket": "vhcalculadoraflex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956264417828:android:475ba172a546873150e6b1",
+        "android_client_info": {
+          "package_name": "com.victorhugo.calculadoraflexvh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956264417828-r3d01vua5kkcj6moefmrov6tsh5tjqg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.victorhugo.calculadoraflexvh",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "956264417828-lkt62pt29d0ejv2kburoetsrlqqfgonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaRRYWO2HHJ-GzNCXenaIS10hPot_yruw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956264417828-lkt62pt29d0ejv2kburoetsrlqqfgonk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
