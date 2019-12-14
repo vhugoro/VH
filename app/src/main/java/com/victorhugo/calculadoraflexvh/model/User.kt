@@ -1,4 +1,4 @@
-package com.victorhugo.calculadoraflexvh.ui.model
+package com.victorhugo.calculadoraflexvh.model
 
 data class User(
     val nome: String = "",
